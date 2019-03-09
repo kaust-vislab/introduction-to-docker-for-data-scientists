@@ -4,6 +4,8 @@ Materials for a Software Carpentry style half-day workshop on Docker. Goal of th
 
 # Material to cover
 
+## Installing Docker CE
+
 ## Motivating examples using Jupyter-Stacks and Rocker
 
 ## How to write a Dockerfile
@@ -19,6 +21,13 @@ Materials for a Software Carpentry style half-day workshop on Docker. Goal of th
 ## Docker-Compose
 
 ## Container Registries (DockerHub)
+* https://hub.docker.com/
 
 ## Repo2Docker
+* https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8
 
+## Additional Resources
+
+* https://docs.docker.com/
+* https://training.play-with-docker.com/
+* https://www.udemy.com/docker-mastery/
