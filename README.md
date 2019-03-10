@@ -6,30 +6,50 @@ Materials for a Software Carpentry style half-day workshop on Docker. Goal of th
 
 ## Installing Docker CE
 
+Requires creating an account on DockerHub. Then downloading the GUI installer for specific OS. 
+
+* https://hub.docker.com/
+* Should I encourage installing edge or stable version? I am using edge version and have not had any issues, stable version has a slightly different UI.
+
 ## Motivating examples using Jupyter-Stacks and Rocker
+Objective is to show learners how I use Docker as part of my develoment workflow to produce reproducible data science pipelines.
 
-## How to write a Dockerfile
-
-## Building Images
-
-## Running Containers
+## Docker-Compose
 
 ### Volumes
 
 ### Networks
 
-## Docker-Compose
-
-## Container Registries (DockerHub)
-* https://hub.docker.com/
+### Image Registries (DockerHub)
 
 ## Repo2Docker
 * https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8
 
+## Running Containers
+
+## Building Images
+
+## How to write a Dockerfile
+
+## Docker cookie-cutter for data-science
+
+Want learners to leave with template engines for Python and R that will allow them to get started with solid project structure.
+
+### Python
+* https://drivendata.github.io/cookiecutter-data-science/
+
+### R
+
+* https://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html
+
 ## Additional Resources
 
+## Official Documentation
 * https://docs.docker.com/
+* https://engineering.docker.com/
 * https://training.play-with-docker.com/
+
+### Courses
 * https://www.udemy.com/docker-mastery/
 
 ### Learn enough Docker to be useful!
