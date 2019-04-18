@@ -48,6 +48,7 @@ Want learners to leave with template engines for Python and R that will allow th
 * https://docs.docker.com/
 * https://engineering.docker.com/
 * https://training.play-with-docker.com/
+* https://kitematic.com/
 
 ### Courses
 * https://www.udemy.com/docker-mastery/
