@@ -15,7 +15,7 @@ objectives:
 - "Understand how container registries, such as DockerHub, can be used to automate research workflows."
 keypoints:
 - "Docker is a platform for developing, deplying, and running applications inside containers."
-- "Containers help improve the portability, reproducibility, and scalability of software engineering and data science workflows."
+- "Containers help improve the portability, reproducibility, and scalability of software engineering and (data) science workflows."
 - "A container image is a 'blueprint' that is used to create standardized units of software called containers."
 - "Publishing your container image to a container registry allows other researchers to create containers from your image and reproduce your results or to build upon your image in order to extend your results."
 ---
