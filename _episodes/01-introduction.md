@@ -1,9 +1,10 @@
 ---
-title: "Introduction"
-teaching: 0
+title: "Introduction to Docker"
+teaching: 10
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is Docker?"
+- "Why should I use Docker as part of my reseach workflow?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
