@@ -1,9 +1,11 @@
 ---
-title: "Getting Started with Binder"
+title: "Getting Started with Docker"
 teaching: 25
 exercises: 10
 questions:
-- "How can I add a Binder button to my GitHub/GitLab repository?"
+- "What is the Binder Project?"
+- "How does the Binder Project use Docker?"
+- "How can I use Binder to create a sharable, interactive, and reproducible research project?"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---

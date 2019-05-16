@@ -3,7 +3,7 @@ title: "Docker Cookie-Cutter for (Data) Science"
 teaching: 25
 exercises: 10
 questions:
-- "???"
+- "How can I simplify setting up a (data) science project with Docker?"
 keypoints:
 - "???"
 ---

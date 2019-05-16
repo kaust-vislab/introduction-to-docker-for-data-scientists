@@ -1,9 +1,12 @@
 ---
-title: "Introduction"
-teaching: 0
+title: "Introduction to Docker"
+teaching: 20
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is Docker and why should I use Docker as part of my reseach workflow?"
+- "What is a Docker image?"
+- "What is a Docker container?"
+- "What is DockerHub?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:

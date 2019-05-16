@@ -1,5 +1,5 @@
 ---
-title: "The Path to Becoming a Docker Master"
+title: "Additional Resources"
 teaching: 5
 exercises: 0
 questions:
