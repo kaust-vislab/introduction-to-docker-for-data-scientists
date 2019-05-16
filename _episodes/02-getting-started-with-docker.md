@@ -5,7 +5,7 @@ exercises: 10
 questions:
 - "What is the Binder Project?"
 - "How does the Binder Project use Docker?"
-- "How can I use Binder to create a sharable, interactive, and reproducible environment for my research project?"
+- "How can I use Binder to create a sharable, interactive, and reproducible research project?"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
