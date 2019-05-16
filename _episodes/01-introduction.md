@@ -9,7 +9,9 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+
+## Motivating examples using Jupyter-Stacks and Rocker
+Objective is to show learners how I use Docker as part of my develoment workflow to produce reproducible data science pipelines.
 
 {% include links.md %}
 
