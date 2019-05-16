@@ -1,9 +1,10 @@
 ---
-title: "Getting started with Docker-Compose"
+title: "Getting started with Docker Compose"
 teaching: 25
 exercises: 10
 questions:
-- "???"
+- "What is Docker Compose?"
+- "How can I use Docker Compose to simplify my research workflow?"
 keypoints:
 - "???"
 ---
