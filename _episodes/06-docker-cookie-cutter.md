@@ -1,9 +1,11 @@
 ---
-title: "Docker Cookie-Cutter for (Data) Science"
+title: "Cookie-Cutter for (Data) Science"
 teaching: 25
 exercises: 10
 questions:
-- "How can I simplify setting up a (data) science project with Docker?"
+- "How can I simplify setting up a (data) science research project with Docker?"
+objectives:
+- "Use the CookieCutter template engine to create a new research project with Docker support."
 keypoints:
 - "???"
 ---
