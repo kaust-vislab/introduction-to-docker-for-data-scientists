@@ -4,6 +4,9 @@ teaching: 5
 exercises: 0
 questions:
 - "Where can I find additional resources on Docker?"
+- "As a (data) scientist, what else should I know about Docker?"
+objectives:
+- "Understand the options for more advanced Docker training."
 keypoints:
 - "???"
 ---
