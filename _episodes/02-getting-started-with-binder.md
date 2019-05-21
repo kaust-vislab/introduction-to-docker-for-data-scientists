@@ -12,7 +12,9 @@ objectives:
 - "Create the configuration files for your project and add them to the repository."
 - "Explain the role that Docker images and Docker containers play in the Binder Project."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "The Binder Project is an open community that makes it possible to create sharable, interactive, and reproducible research projects."
+- "The Binder Project uses repo2docker to create a Docker image for your source code repository and then uses the resulting image to create containers which it then deploys on Google Compute Platform for interactive use."
+- "To use the Binder service you need to add a configuration file(s) to your repository and then add a few lines of markdown to your project README.md to enable the 'Launch Binder' button."
 ---
 
 ## What is the Binder Project?
