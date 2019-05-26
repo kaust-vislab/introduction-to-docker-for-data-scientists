@@ -158,13 +158,12 @@ adds to or replaces the layer below it. We will be covering Dockerfiles in quite
 >     fix-permissions $JULIA_PKGDIR $CONDA_DIR/share/jupyter
 > ~~~
 > 
-> This `Dockerfile` has 15 layers (if I have counted correctly!) and describes how to install the 
-> following on top of the `jupyter/scipy-notebook` container image which contains Python 3 as well 
-> as the most widely used Python data science packages. 
-> 
-> * Version 3.5.1 of the [R](https://www.r-project.org/) programming language together with a 
->   large number of popular R data science libraries.
-> * Version 1.1 of the [Julia](https://julialang.org/) programming language.
+> This `Dockerfile` has 15 layers (if I have counted correctly!) and describes how to install 
+> version 3.5.1 of the [R](https://www.r-project.org/) programming language, a bunch of popular R 
+> data science libraries, and version 1.1 of the [Julia](https://julialang.org/) programming 
+> language on top of the `jupyter/scipy-notebook` container image (which itself contains Python 3 
+> and a bunch of widely used Python data science packages). 
+>
 {: .callout}
 
 ## What is a container image?
