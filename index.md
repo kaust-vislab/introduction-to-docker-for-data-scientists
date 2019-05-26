@@ -3,6 +3,11 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
+
+<p align="center">
+    <img alt="Docker" src="../fig/docker-logo-small.png">
+</p>
+
 This lesson is an introduction to Docker for people with a strong foundation in Shell, version control with Git, and programming in either Python or R.  The lesson motivates the use of Docker as a development tool for enabling reproducible (data) science workflows.
 
 <!-- this is an html comment -->
