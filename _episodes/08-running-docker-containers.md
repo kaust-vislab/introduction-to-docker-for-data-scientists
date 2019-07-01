@@ -21,3 +21,5 @@ keypoints:
 - "Mount a directory on the host into a container by passing the `--volume` option to the `docker container run` command."
 - "Pass the `--rm` flag when using the `docker container run` command to automatically remove the container when it exits."
 ---
+
+Docker Client is the primary way you’ll interact with Docker. When you use the Docker Command Line Interface (CLI) you type a command into your terminal that starts with docker. Docker Client then uses the Docker API to send the command to the Docker Daemon.

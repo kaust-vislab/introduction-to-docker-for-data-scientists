@@ -27,7 +27,9 @@ Volumes are the “data” part of a container, initialized when a container is 
 
 
 ## Networks
+From [Medium][introduction-to-containers-and-vms]
 
+Moreover, then creating the container, Docker creates a network interface so that the container can talk to the local host, attaches an available IP address to the container, and executes the process that you specified to run your application when defining the image.
 
 [introduction-to-containers-and-vms]: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
 
